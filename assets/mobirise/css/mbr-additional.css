@@ -2875,8 +2875,13 @@ body {
 .cid-qIBRb7TmGq .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-r1WYWg84ly {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/twitter-bg-1598x366.jpg");
+}
 .cid-qIBYrKUq7T {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background: url("../../../assets/images/twitter-bg-1598x366.jpg");
 }
