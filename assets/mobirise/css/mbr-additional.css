@@ -12939,8 +12939,32 @@ body {
 .cid-r3gyPY90rB P {
   text-align: left;
 }
-.cid-r4mQ3N6MeB {
+.cid-r4Atsvfzd4 {
   padding-top: 90px;
+  padding-bottom: 30px;
+  background-color: #cccccc;
+}
+.cid-r4Atsvfzd4 .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #232323;
+}
+.cid-r4Atsvfzd4 .mbr-author-name {
+  font-weight: bold;
+  color: #232323;
+}
+.cid-r4Atsvfzd4 .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-r4Atsvfzd4 .mbr-author-desc {
+  color: #232323;
+}
+.cid-r4Atsvfzd4 .btn {
+  border-radius: 30px;
+}
+.cid-r4mQ3N6MeB {
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #767676;
 }
